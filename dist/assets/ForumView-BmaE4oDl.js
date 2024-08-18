@@ -1,1 +1,0 @@
-import{_ as e,o,c as s,a as c}from"./index-DEOoOTWy.js";const t={},_={class:"forum"},a=c("h1",null,"Home-Page",-1),n=[a];function r(d,i){return o(),s("div",_,n)}const l=e(t,[["render",r]]);export{l as default};
