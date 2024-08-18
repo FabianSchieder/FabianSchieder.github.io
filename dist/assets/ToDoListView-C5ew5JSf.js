@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,a as t}from"./index-DEOoOTWy.js";const c={},_={class:"todolist"},a=t("h1",null,"Home-Page",-1),n=[a];function r(i,d){return o(),s("div",_,n)}const f=e(c,[["render",r]]);export{f as default};
